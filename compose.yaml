@@ -1,0 +1,10 @@
+services:
+  recovery-ml:
+    build: .
+    container_name: recovery-ml
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python src/train_ml.py

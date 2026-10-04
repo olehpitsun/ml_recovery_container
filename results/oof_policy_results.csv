@@ -1,0 +1,162 @@
+fold,incident_group_id,fault_type,severity,workload_profile,selected_action,selected_probability,selected_actual_success,oracle_success
+1,IG_0003,CPU Resource Exhaustion,High,light,Rollback,0.9805298433639236,1,1
+1,IG_0005,Memory Pressure,Medium,light,Failover,0.986220848811097,1,1
+1,IG_0011,Application Latency,Medium,heavy,ScaleOut,0.046748649006538114,0,0
+1,IG_0017,Failed Software Deployment,Medium,medium,ScaleOut,0.056141128286000624,0,0
+1,IG_0027,Memory Pressure,High,medium,NoAction,0.982790139009092,1,1
+1,IG_0032,Application Latency,Medium,heavy,Restart,0.03088855104399451,0,0
+1,IG_0040,Temporary Workload Spike,Low,medium,ScaleOut,0.21646892803873785,0,0
+1,IG_0048,Memory Pressure,High,medium,Rollback,0.9778667644192311,1,1
+1,IG_0051,Application Error Injection,High,heavy,ScaleOut,0.014472294688783,0,0
+1,IG_0061,Temporary Workload Spike,Low,medium,Failover,0.45884827983368226,0,0
+1,IG_0073,Application Latency,Low,medium,Failover,0.9462585345149127,1,1
+1,IG_0075,Application Latency,High,light,ScaleOut,0.032548633614534805,0,0
+1,IG_0083,Temporary Workload Spike,Medium,heavy,ScaleOut,0.028723884792773668,0,0
+1,IG_0089,Memory Pressure,Medium,light,NoAction,0.9884614251809806,1,1
+1,IG_0092,Application Error Injection,Medium,medium,Restart,0.04375747737935835,0,0
+1,IG_0102,Failed Software Deployment,High,heavy,Restart,0.00202921129503408,0,0
+1,IG_0113,Application Error Injection,Medium,medium,Restart,0.03194249876753478,0,0
+1,IG_0117,Application Latency,High,light,Restart,0.04246562144786395,0,0
+1,IG_0124,Temporary Workload Spike,Low,medium,ScaleOut,0.47060057287289364,0,1
+1,IG_0129,CPU Resource Exhaustion,High,light,Rollback,0.9757416564762846,1,1
+1,IG_0134,Application Error Injection,Medium,medium,ScaleOut,0.026512172286696858,0,0
+1,IG_0136,Application Latency,Low,medium,NoAction,0.9914792137798509,1,1
+1,IG_0142,Failed Software Deployment,Low,light,NoAction,0.03694288719771003,0,1
+1,IG_0145,Temporary Workload Spike,Low,medium,ScaleOut,0.3645671417766174,0,1
+1,IG_0156,Application Error Injection,High,heavy,Rollback,0.01266263174670593,0,0
+1,IG_0167,Temporary Workload Spike,Medium,heavy,ScaleOut,0.019447880308291164,0,0
+1,IG_0169,CPU Resource Exhaustion,Low,medium,Failover,0.9771799342800135,1,1
+1,IG_0174,Memory Pressure,High,medium,Rollback,0.9981622872815071,1,1
+1,IG_0185,Failed Software Deployment,Medium,medium,Failover,0.016316035842983554,0,0
+1,IG_0192,CPU Resource Exhaustion,High,light,NoAction,0.9684519992265246,1,1
+1,IG_0196,Application Error Injection,Low,light,NoAction,0.37017522485002147,0,1
+1,IG_0205,Failed Software Deployment,Low,light,Rollback,0.047302545053032836,0,0
+1,IG_0210,Temporary Workload Spike,High,light,NoAction,0.030987236731024215,0,0
+2,IG_0002,CPU Resource Exhaustion,Medium,heavy,ScaleOut,0.6814127509195359,1,1
+2,IG_0006,Memory Pressure,High,medium,Rollback,0.9757974133088939,1,1
+2,IG_0022,CPU Resource Exhaustion,Low,medium,NoAction,0.9708579285050665,1,1
+2,IG_0023,CPU Resource Exhaustion,Medium,heavy,Rollback,0.8054514644065918,1,1
+2,IG_0026,Memory Pressure,Medium,light,NoAction,0.9882314161985087,1,1
+2,IG_0042,Temporary Workload Spike,High,light,Restart,0.06576330727932198,0,0
+2,IG_0047,Memory Pressure,Medium,light,Failover,0.8419591094516792,1,1
+2,IG_0049,Application Error Injection,Low,light,ScaleOut,0.7153598446412851,0,1
+2,IG_0054,Application Latency,High,light,ScaleOut,0.030217710810962393,0,0
+2,IG_0062,Temporary Workload Spike,Medium,heavy,ScaleOut,0.019150384751003686,0,0
+2,IG_0074,Application Latency,Medium,heavy,ScaleOut,0.04345813331922698,0,0
+2,IG_0082,Temporary Workload Spike,Low,medium,ScaleOut,0.24656784000965293,1,1
+2,IG_0085,CPU Resource Exhaustion,Low,medium,NoAction,0.9870596560486666,1,1
+2,IG_0088,Memory Pressure,Low,heavy,ScaleOut,0.9801080319589587,1,1
+2,IG_0095,Application Latency,Medium,heavy,Restart,0.06804659845928139,0,0
+2,IG_0101,Failed Software Deployment,Medium,medium,Restart,0.039882320330454156,0,0
+2,IG_0112,Application Error Injection,Low,light,ScaleOut,0.5902540535595621,1,1
+2,IG_0115,Application Latency,Low,medium,NoAction,0.9743029319871636,1,1
+2,IG_0125,Temporary Workload Spike,Medium,heavy,ScaleOut,0.021078426094672937,0,0
+2,IG_0137,Application Latency,Medium,heavy,ScaleOut,0.17296197996803758,0,0
+2,IG_0146,Temporary Workload Spike,Medium,heavy,Rollback,0.046296200270652704,0,0
+2,IG_0153,Memory Pressure,High,medium,Rollback,0.9773309820431304,1,1
+2,IG_0155,Application Error Injection,Medium,medium,Rollback,0.039139305689638346,0,0
+2,IG_0164,Failed Software Deployment,Medium,medium,ScaleOut,0.0668859943312699,0,0
+2,IG_0166,Temporary Workload Spike,Low,medium,ScaleOut,0.3439511840139435,0,1
+2,IG_0175,Application Error Injection,Low,light,ScaleOut,0.7333325412043383,1,1
+2,IG_0178,Application Latency,Low,medium,ScaleOut,0.9374834091480994,1,1
+2,IG_0189,Temporary Workload Spike,High,light,ScaleOut,0.02051185029370621,0,0
+2,IG_0193,Memory Pressure,Low,heavy,Rollback,0.9653496216651581,1,1
+2,IG_0194,Memory Pressure,Medium,light,Rollback,0.9788264010937381,1,1
+2,IG_0198,Application Error Injection,High,heavy,Restart,0.017658093797276855,0,0
+2,IG_0209,Temporary Workload Spike,Medium,heavy,Restart,0.035765748974736535,0,0
+3,IG_0007,Application Error Injection,Low,light,ScaleOut,0.6617690023595075,1,1
+3,IG_0009,Application Error Injection,High,heavy,ScaleOut,0.038326344180351725,0,0
+3,IG_0020,Temporary Workload Spike,Medium,heavy,Failover,0.04263805803270297,0,0
+3,IG_0021,Temporary Workload Spike,High,light,ScaleOut,0.009680358121692552,0,0
+3,IG_0028,Application Error Injection,Low,light,Failover,0.5269853700811731,0,1
+3,IG_0033,Application Latency,High,light,Restart,0.01987243958867792,0,0
+3,IG_0038,Failed Software Deployment,Medium,medium,Failover,0.05674828182320129,0,0
+3,IG_0050,Application Error Injection,Medium,medium,ScaleOut,0.06484722163271164,0,0
+3,IG_0058,Failed Software Deployment,Low,light,NoAction,0.08747272983490817,0,0
+3,IG_0063,Temporary Workload Spike,High,light,Restart,0.012452608722407858,0,0
+3,IG_0069,Memory Pressure,High,medium,Failover,0.9706277636411157,1,1
+3,IG_0080,Failed Software Deployment,Medium,medium,Failover,0.13241243716290338,0,0
+3,IG_0084,Temporary Workload Spike,High,light,ScaleOut,0.01140940253232792,0,0
+3,IG_0090,Memory Pressure,High,medium,Rollback,0.9893199580756371,1,1
+3,IG_0096,Application Latency,High,light,Rollback,0.03274659220212665,0,0
+3,IG_0108,CPU Resource Exhaustion,High,light,NoAction,0.9751018506176442,1,1
+3,IG_0111,Memory Pressure,High,medium,Rollback,0.9838973527202258,1,1
+3,IG_0116,Application Latency,Medium,heavy,ScaleOut,0.018084794762579466,0,0
+3,IG_0126,Temporary Workload Spike,High,light,Failover,0.013639502005136684,0,0
+3,IG_0133,Application Error Injection,Low,light,Failover,0.594562962479594,0,1
+3,IG_0143,Failed Software Deployment,Medium,medium,Restart,0.16156722940532695,0,0
+3,IG_0149,CPU Resource Exhaustion,Medium,heavy,ScaleOut,0.8609732896609424,1,1
+3,IG_0150,CPU Resource Exhaustion,High,light,NoAction,0.9648349457708224,1,1
+3,IG_0152,Memory Pressure,Medium,light,NoAction,0.9924183813659576,1,1
+3,IG_0159,Application Latency,High,light,Rollback,0.07179138895723979,0,0
+3,IG_0171,CPU Resource Exhaustion,High,light,Failover,0.9810068026246768,1,1
+3,IG_0176,Application Error Injection,Medium,medium,ScaleOut,0.07958125771035317,0,0
+3,IG_0179,Application Latency,Medium,heavy,ScaleOut,0.0414474269845941,0,0
+3,IG_0188,Temporary Workload Spike,Medium,heavy,ScaleOut,0.020077302902965694,0,0
+3,IG_0197,Application Error Injection,Medium,medium,ScaleOut,0.02501833164813807,0,0
+3,IG_0200,Application Latency,Medium,heavy,ScaleOut,0.03734120141911933,0,0
+3,IG_0208,Temporary Workload Spike,Low,medium,ScaleOut,0.4064706979425685,1,1
+4,IG_0008,Application Error Injection,Medium,medium,Restart,0.10188622832748377,0,0
+4,IG_0012,Application Latency,High,light,Rollback,0.028016202087473373,0,0
+4,IG_0018,Failed Software Deployment,High,heavy,Failover,0.03249474821369046,0,0
+4,IG_0024,CPU Resource Exhaustion,High,light,Rollback,0.9810715470519606,1,1
+4,IG_0029,Application Error Injection,Medium,medium,ScaleOut,0.030879340850242604,0,0
+4,IG_0045,CPU Resource Exhaustion,High,light,Failover,0.7443696085953868,1,1
+4,IG_0053,Application Latency,Medium,heavy,Rollback,0.013303023792899727,0,0
+4,IG_0059,Failed Software Deployment,Medium,medium,Rollback,0.051851133483813996,0,0
+4,IG_0064,CPU Resource Exhaustion,Low,medium,Rollback,0.9747428846138652,1,1
+4,IG_0067,Memory Pressure,Low,heavy,Rollback,0.9383829703018551,1,1
+4,IG_0071,Application Error Injection,Medium,medium,Restart,0.053324416507977465,0,0
+4,IG_0081,Failed Software Deployment,High,heavy,ScaleOut,0.05040929300181182,0,0
+4,IG_0087,CPU Resource Exhaustion,High,light,Failover,0.9831866077178399,1,1
+4,IG_0091,Application Error Injection,Low,light,ScaleOut,0.5999714254771611,1,1
+4,IG_0104,Temporary Workload Spike,Medium,heavy,ScaleOut,0.006712788579256929,0,0
+4,IG_0107,CPU Resource Exhaustion,Medium,heavy,ScaleOut,0.6671339463853188,1,1
+4,IG_0110,Memory Pressure,Medium,light,Failover,0.981048491394407,1,1
+4,IG_0122,Failed Software Deployment,Medium,medium,ScaleOut,0.03808953190249264,0,0
+4,IG_0127,CPU Resource Exhaustion,Low,medium,NoAction,0.9896762882600604,1,1
+4,IG_0132,Memory Pressure,High,medium,Failover,0.9743657035296386,1,1
+4,IG_0138,Application Latency,High,light,NoAction,0.028539082924911148,0,0
+4,IG_0144,Failed Software Deployment,High,heavy,Failover,0.04004503422744722,0,0
+4,IG_0148,CPU Resource Exhaustion,Low,medium,Rollback,0.972588076041114,1,1
+4,IG_0151,Memory Pressure,Low,heavy,NoAction,0.9333977968268696,1,1
+4,IG_0158,Application Latency,Medium,heavy,NoAction,0.04288337586454703,0,0
+4,IG_0165,Failed Software Deployment,High,heavy,Failover,0.065970145658494,0,0
+4,IG_0172,Memory Pressure,Low,heavy,NoAction,0.9583648909559339,1,1
+4,IG_0180,Application Latency,High,light,Restart,0.040047838717467615,0,0
+4,IG_0187,Temporary Workload Spike,Low,medium,NoAction,0.4132837132033254,0,1
+4,IG_0190,CPU Resource Exhaustion,Low,medium,NoAction,0.9828160314853879,1,1
+4,IG_0201,Application Latency,High,light,Restart,0.04402882038714919,0,0
+4,IG_0207,Failed Software Deployment,High,heavy,NoAction,0.018983984247191932,0,0
+5,IG_0001,CPU Resource Exhaustion,Low,medium,Rollback,0.9568748998576162,1,1
+5,IG_0004,Memory Pressure,Low,heavy,Rollback,0.9399465977109143,1,1
+5,IG_0019,Temporary Workload Spike,Low,medium,NoAction,0.3568385998711045,0,0
+5,IG_0025,Memory Pressure,Low,heavy,Rollback,0.9131708392255574,1,1
+5,IG_0031,Application Latency,Low,medium,Failover,0.9796509338646041,1,1
+5,IG_0043,CPU Resource Exhaustion,Low,medium,NoAction,0.5630505878579671,1,1
+5,IG_0052,Application Latency,Low,medium,Rollback,0.9402247240132298,1,1
+5,IG_0060,Failed Software Deployment,High,heavy,Restart,0.01429884995161495,0,0
+5,IG_0065,CPU Resource Exhaustion,Medium,heavy,ScaleOut,0.7414898171823868,1,1
+5,IG_0066,CPU Resource Exhaustion,High,light,Failover,0.9869489115302026,1,1
+5,IG_0068,Memory Pressure,Medium,light,Failover,0.9777944900006753,1,1
+5,IG_0072,Application Error Injection,High,heavy,Rollback,0.059724166810474176,0,0
+5,IG_0086,CPU Resource Exhaustion,Medium,heavy,NoAction,0.5864492080507083,1,1
+5,IG_0093,Application Error Injection,High,heavy,Restart,0.011735587894376991,0,0
+5,IG_0103,Temporary Workload Spike,Low,medium,Restart,0.3119945852521809,0,1
+5,IG_0105,Temporary Workload Spike,High,light,Restart,0.013026142053610855,0,0
+5,IG_0106,CPU Resource Exhaustion,Low,medium,NoAction,0.978714894292979,1,1
+5,IG_0109,Memory Pressure,Low,heavy,ScaleOut,0.9159605520173402,1,1
+5,IG_0123,Failed Software Deployment,High,heavy,Rollback,0.010347463374932175,0,0
+5,IG_0128,CPU Resource Exhaustion,Medium,heavy,Rollback,0.5156945421971205,0,1
+5,IG_0130,Memory Pressure,Low,heavy,Failover,0.9459502411849161,1,1
+5,IG_0131,Memory Pressure,Medium,light,Rollback,0.9864727054164388,1,1
+5,IG_0135,Application Error Injection,High,heavy,Restart,0.02027401397689877,0,0
+5,IG_0147,Temporary Workload Spike,High,light,ScaleOut,0.01665295918728789,0,0
+5,IG_0154,Application Error Injection,Low,light,ScaleOut,0.5637478203919445,1,1
+5,IG_0168,Temporary Workload Spike,High,light,NoAction,0.008324709295935637,0,0
+5,IG_0170,CPU Resource Exhaustion,Medium,heavy,ScaleOut,0.6208198567428114,1,1
+5,IG_0173,Memory Pressure,Medium,light,NoAction,0.955306322132184,1,1
+5,IG_0186,Failed Software Deployment,High,heavy,Failover,0.01565500125167562,0,0
+5,IG_0191,CPU Resource Exhaustion,Medium,heavy,ScaleOut,0.6979419557275699,1,1
+5,IG_0195,Memory Pressure,High,medium,Rollback,0.9833039505844654,1,1
+5,IG_0206,Failed Software Deployment,Medium,medium,ScaleOut,0.01500526075696862,0,0
